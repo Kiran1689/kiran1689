@@ -1,5 +1,5 @@
 <img align="right" width="33%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-<h1>Hello World 👋</h1>
+<h1>Hello World👋</h1>
 <h2>I'm Kumar Kiran</h1>
 <br /> 
 
@@ -42,9 +42,6 @@
 <br/>
 <br />
 
-<p align="center"><a href="https://github.com/Kiran1689#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kiran1689&theme=nightowl#gh-dark-mode-only" alt="Kiran1689" /></a>
-<a href="https://github.com/Kiran1689#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kiran1689&theme=vue#gh-light-mode-only" alt="Kiran1689" /></a></p>
-<br/>
 
 ---
 
