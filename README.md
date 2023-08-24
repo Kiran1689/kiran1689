@@ -50,8 +50,8 @@
 
 <h2 align="center">My Latest Project</h2> 
 <br />
-<p align="center"><a href="https://github.com/Kiran1689/flipkart_scraper#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=flipkart_scraper&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p align="center"><a href="https://github.com/Kiran1689/flipkart_scraper#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=flipkart_scraper&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p align="center"><a href="https://github.com/Kiran1689/cryptos#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p align="center"><a href="https://github.com/Kiran1689/cryptos#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
