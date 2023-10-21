@@ -12,7 +12,7 @@
 <p align="left">Passionate about holistic solutions addressing complex challenges, I develop sustainable systems that make a positive impact through end-to-end product development.</p>
 <p align="left"> 
   <a href="https://github.com/Kiran1689?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kiran1689?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kiran1689?color=#930eac&style=for-the-badge&labelColor=#46124e&logo=star#gh-light-mode-only"/></a>
   
   <a href="https://github.com/Kiran1689?tab=repositories&sort=stargazers#gh-dark-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kiran1689?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
