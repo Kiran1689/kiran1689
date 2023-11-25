@@ -105,15 +105,11 @@
 
 ---
 
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  
-    <p align="center">
-      <!--STARTS_HERE_QUOTE_CARD-->
-      <img src="https://readmedailyquotes.vercel.app/api?author=Napoleon%20Hill&quote=What%20the%20mind%20can%20conceive%2C%20it%20can%20achieve.&theme=dark&bg_color=011627&author_color=ffeb95">
-      <!--ENDS_HERE_QUOTE_CARD-->
-    </p>
-    
+    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 <h2 align="center">Connect With Me</h2>
 <div align="center">
