@@ -7,11 +7,11 @@ async function updateQuote() {
     const { quote, author } = quotes[randomIndex];
 
     const cardDesign = `
+    <!--STARTS_HERE_QUOTE_CARD-->
     <p align="center">
-      <!--STARTS_HERE_QUOTE_CARD-->
-      <img src="https://readmedailyquotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=011627&author_color=ffeb95">
-      <!--ENDS_HERE_QUOTE_CARD-->
+        <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=011627&author_color=ffeb95">
     </p>
+    <!--ENDS_HERE_QUOTE_CARD-->
     `;
 
     const readmePath = './README.md';
