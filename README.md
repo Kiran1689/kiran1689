@@ -105,6 +105,12 @@
 
 ---
 
+<p align="center">
+  <!--STARTS_HERE_QUOTE_CARD-->
+  <img src="https://readmedailyquotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=011627&author_color=ffeb95">
+  <!--ENDS_HERE_QUOTE_CARD-->
+</p>
+
 <h2 align="center">Connect With Me</h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
