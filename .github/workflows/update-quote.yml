@@ -1,7 +1,7 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  Manually trigger the workflow
+  workflow_dispatch:  #Manually trigger the workflow
 
 jobs:
   update-readme:
