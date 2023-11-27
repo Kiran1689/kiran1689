@@ -110,11 +110,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=There's%20a%20very%20deep%20connection%20among%20human%20beings.%20All%20we%20have%20to%20do%20is%20open%20our%20minds%20to%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Make%20your%20stand%20today.%20On%20this%20spot.%20On%20this%20day.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
