@@ -106,11 +106,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=All%20know%20that%20the%20drop%20merges%20into%20the%20ocean%2C%20but%20few%20know%20that%20the%20ocean%20merges%20into%20the%20drop.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=To%20the%20world%20you%20may%20be%20one%20person%3B%20but%20to%20one%20person%20you%20may%20be%20the%20world.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
