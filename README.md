@@ -108,11 +108,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Success%20is%20the%20progressive%20realization%20of%20a%20worthy%20goal%20or%20ideal.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Every%20day%20passes%20whether%20you%20participate%20or%20not.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
