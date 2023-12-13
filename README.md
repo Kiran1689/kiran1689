@@ -115,11 +115,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Everything%20has%20beauty%20but%20not%20everyone%20sees%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=G.I.%20Gurdjieff&quote=Awakening%20is%20possible%20only%20for%20those%20who%20seek%20it%20and%20want%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
