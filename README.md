@@ -129,11 +129,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bette%20Midler&quote=The%20worst%20part%20of%20success%20is%20trying%20to%20find%20someone%20who%20is%20happy%20for%20you.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Exceptional%20thinkers%20ignore%20their%20critics%20and%20go%20about%20their%20business%20making%20history.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
