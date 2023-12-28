@@ -130,11 +130,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Exceptional%20thinkers%20ignore%20their%20critics%20and%20go%20about%20their%20business%20making%20history.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=You%20can%20never%20cross%20the%20ocean%20unless%20you%20have%20the%20courage%20to%20lose%20sight%20of%20the%20shore.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
