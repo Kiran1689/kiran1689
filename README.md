@@ -131,11 +131,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Columbus&quote=You%20can%20never%20cross%20the%20ocean%20unless%20you%20have%20the%20courage%20to%20lose%20sight%20of%20the%20shore.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Be%20patient%20and%20calm%3B%20no%20one%20can%20catch%20fish%20in%20anger.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
