@@ -132,11 +132,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Be%20patient%20and%20calm%3B%20no%20one%20can%20catch%20fish%20in%20anger.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Remember%20the%20entrance%20to%20the%20sanctuary%20is%20inside%20you.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
