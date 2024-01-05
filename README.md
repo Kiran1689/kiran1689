@@ -138,11 +138,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=The%20meaning%20of%20life%20is%20that%20it%20stops.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Life%20would%20be%20tragic%20if%20it%20weren't%20funny.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
