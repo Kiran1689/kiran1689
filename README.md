@@ -106,11 +106,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Whatever%20you%20believe%20with%20feeling%20becomes%20your%20reality.%20&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sydney%20Smith&quote=Life%20is%20to%20be%20fortified%20by%20many%20friendships.%20To%20love%2C%20and%20to%20be%20loved%2C%20is%20the%20greatest%20happiness%20of%20existence.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
