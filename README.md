@@ -118,11 +118,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Not%20doing%20it%20is%20certainly%20the%20best%20way%20to%20not%20getting%20it.%20%20&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winners%20never%20quit%20and%20quitters%20never%20win.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
