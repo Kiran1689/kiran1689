@@ -124,11 +124,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=There%20are%20two%20kinds%20of%20perfect%20people%3A%20those%20who%20are%20dead%2C%20and%20those%20who%20have%20not%20been%20born%20yet.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=This%20is%20the%20real%20secret%20of%20life%20-%20to%20be%20completely%20engaged%20with%20what%20you%20are%20doing%20in%20the%20here%20and%20now.%20And%20instead%20of%20calling%20it%20work%2C%20realize%20it%20is%20play.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
