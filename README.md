@@ -126,11 +126,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Every%20day%20is%20lost%20in%20which%20we%20do%20not%20learn%20something%20useful.%20Man%20has%20no%20nobler%20or%20more%20valuable%20possession%20than%20time.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Cleverness%20is%20not%20wisdom.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
