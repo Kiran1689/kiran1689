@@ -128,11 +128,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=There%20is%20an%20essence%20of%20when%20you%20are%20fearless%2C%20you%20become%20more%20creative.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20consequences%20of%20today%20are%20determined%20by%20the%20actions%20of%20the%20past.%20To%20change%20your%20future%2C%20alter%20your%20decisions%20today.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
