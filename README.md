@@ -129,11 +129,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20consequences%20of%20today%20are%20determined%20by%20the%20actions%20of%20the%20past.%20To%20change%20your%20future%2C%20alter%20your%20decisions%20today.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=You%20can't%20climb%20the%20ladder%20of%20success%20with%20your%20hands%20in%20your%20pockets.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
