@@ -132,11 +132,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=I%20am%20who%20I%20am%20today%20because%20of%20the%20choices%20I%20made%20yesterday.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=I%20don't%20walk%20away%20from%20things%20that%20I%20think%20are%20unfinished.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
