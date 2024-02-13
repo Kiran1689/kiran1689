@@ -138,11 +138,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Life%20should%20be%20touched%2C%20not%20strangled.%20%20&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Normality%20is%20a%20paved%20road%3A%20It's%20comfortable%20to%20walk%2C%20but%20no%20flowers%20grow%20on%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
