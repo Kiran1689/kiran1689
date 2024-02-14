@@ -139,11 +139,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Normality%20is%20a%20paved%20road%3A%20It's%20comfortable%20to%20walk%2C%20but%20no%20flowers%20grow%20on%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=May%20you%20find%20grace%20as%20you%20surrender%20to%20life.%20May%20you%20find%20happiness%2C%20as%20you%20stop%20seeking%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
