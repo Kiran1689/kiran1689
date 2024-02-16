@@ -141,11 +141,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=Do%20not%20follow%20the%20ideas%20of%20others%2C%20but%20learn%20to%20listen%20to%20the%20voice%20within%20yourself.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=The%20smallest%20of%20actions%20is%20always%20better%20than%20the%20noblest%20of%20intentions.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
