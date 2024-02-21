@@ -146,11 +146,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=In%20the%20middle%20of%20chaos%20lies%20opportunity.%20%20&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Every%20day%20do%20something%20that%20will%20inch%20you%20closer%20to%20a%20better%20tomorrow.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
