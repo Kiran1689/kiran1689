@@ -149,11 +149,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=There%20are%20people%20who%20have%20money%20and%20people%20who%20are%20rich.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Work%20for%20something%20because%20it%20is%20good%2C%20not%20just%20because%20it%20stands%20a%20chance%20to%20succeed.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
