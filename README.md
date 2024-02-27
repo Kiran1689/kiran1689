@@ -152,11 +152,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=The%20dead%20receive%20more%20flowers%20than%20the%20living%20because%20regret%20is%20stronger%20than%20gratitude.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Don't%20live%20the%20same%20year%2075%20times%20and%20call%20it%20a%20life.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
