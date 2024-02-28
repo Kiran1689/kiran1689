@@ -153,11 +153,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Don't%20live%20the%20same%20year%2075%20times%20and%20call%20it%20a%20life.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=I%20like%20the%20dreams%20of%20the%20future%20better%20than%20the%20history%20of%20the%20past.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
