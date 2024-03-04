@@ -158,11 +158,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=We%20are%20shaped%20and%20fashioned%20by%20what%20we%20love.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=It%20is%20the%20mark%20of%20an%20educated%20mind%20to%20be%20able%20to%20entertain%20a%20thought%20without%20accepting%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
