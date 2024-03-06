@@ -160,11 +160,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20only%20takes%20a%20split%20second%20to%20smile%20and%20forget%2C%20yet%20to%20someone%20that%20needed%20it%2C%20it%20can%20last%20a%20lifetime.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Do%20something%20to%20move%20yourself%20toward%20your%20major%20goal%20every%20day.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
