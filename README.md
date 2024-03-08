@@ -162,11 +162,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=If%20you%20want%20things%20to%20be%20different%2C%20perhaps%20the%20answer%20is%20to%20become%20different%20yourself.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20Law%20of%20Concentration%20states%20that%20whatever%20you%20dwell%20upon%20grows.%20The%20more%20you%20think%20about%20something%2C%20the%20more%20it%20becomes%20part%20of%20your%20reality.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
