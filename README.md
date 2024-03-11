@@ -165,11 +165,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=If%20light%20is%20in%20your%20heart%2C%20you%20will%20find%20your%20way%20home.%20%20&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Soren%20Kierkegaard&quote=Life%20is%20not%20a%20problem%20to%20be%20solved%2C%20but%20a%20reality%20to%20be%20experienced.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
