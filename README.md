@@ -168,11 +168,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=It%20doesn't%20matter%20if%20the%20glass%20is%20half%20empty%20or%20half%20full.%20Be%20grateful%20you%20have%20a%20glass%20-%20you're%20the%20only%20person%20that%20can%20decide%20what's%20in%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Waste%20no%20more%20time%20arguing%20about%20what%20a%20good%20man%20should%20be.%20Be%20one.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
