@@ -170,11 +170,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20wise%20accomplish%20all%20that%20they%20want%20without%20arousing%20the%20envy%20or%20scorn%20of%20others.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20will%20never%20happen%20again.%20Don't%20waste%20it%20with%20a%20false%20start%20or%20no%20start%20at%20all.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
