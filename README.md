@@ -171,11 +171,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20will%20never%20happen%20again.%20Don't%20waste%20it%20with%20a%20false%20start%20or%20no%20start%20at%20all.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marilyn%20Monroe&quote=Don't%20stop%20when%20you're%20tired.%20Stop%20when%20you're%20done.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
