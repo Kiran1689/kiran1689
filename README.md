@@ -175,11 +175,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=Life%20is%20much%20more%20successfully%20looked%20at%20from%20a%20single%20window.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Life%20is%20much%20like%20going%20to%20the%20gym.%20The%20most%20painful%20part%20is%20deciding%20to%20go.%20Once%20you%20get%20past%20that%2C%20it's%20easy.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
