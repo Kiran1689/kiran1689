@@ -177,11 +177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Make%20your%20life%20a%20mission%20-%20not%20an%20intermission.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=When%20at%20last%20you%20are%20come%20to%20the%20ocean%20of%20happiness%2C%20do%20not%20go%20back%20thirsty.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
