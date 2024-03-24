@@ -178,11 +178,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=When%20at%20last%20you%20are%20come%20to%20the%20ocean%20of%20happiness%2C%20do%20not%20go%20back%20thirsty.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=Some%20people%20are%20old%20at%2018%20and%20some%20are%20young%20at%2090.%20Time%20is%20a%20concept%20that%20humans%20created.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
