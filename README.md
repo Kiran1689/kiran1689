@@ -179,11 +179,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=Some%20people%20are%20old%20at%2018%20and%20some%20are%20young%20at%2090.%20Time%20is%20a%20concept%20that%20humans%20created.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Cherie%20Gilderbloom&quote=The%20best%20dreams%20happen%20when%20you're%20awake.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
