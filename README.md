@@ -180,11 +180,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Cherie%20Gilderbloom&quote=The%20best%20dreams%20happen%20when%20you're%20awake.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Nothing%20gives%20one%20person%20so%20much%20advantage%20over%20another%20as%20to%20remain%20always%20cool%20and%20unruffled%20under%20all%20circumstances.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
