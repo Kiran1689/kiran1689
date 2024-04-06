@@ -191,11 +191,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Honore%20de%20Balzac&quote=There%20is%20no%20such%20thing%20as%20a%20great%20talent%20without%20great%20willpower.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=I%20can%20never%20decide%20whether%20my%20dreams%20are%20the%20result%20of%20my%20thoughts%20or%20my%20thoughts%20the%20result%20of%20my%20dreams.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
