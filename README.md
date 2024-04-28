@@ -213,11 +213,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=There%20are%20as%20many%20opinions%20as%20there%20are%20experts.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Loyalty%20and%20friendship%20are%20the%20most%20precious%20possessions%20a%20man%20can%20have.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
