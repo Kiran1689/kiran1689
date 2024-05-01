@@ -216,11 +216,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=A%20clear%20conscience%20is%20the%20sure%20sign%20of%20a%20bad%20memory.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Silence%20is%20a%20source%20of%20great%20strength.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
