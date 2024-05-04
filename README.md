@@ -219,11 +219,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Many%20a%20man%20has%20failed%20because%20he%20had%20his%20wishbone%20where%20his%20backbone%20should%20have%20been.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=You%20know%20you%20are%20on%20the%20road%20to%20success%20if%20you%20would%20do%20your%20job%20and%20not%20be%20paid%20for%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
