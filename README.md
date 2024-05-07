@@ -222,11 +222,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Better%20the%20cottage%20where%20one%20is%20merry%20than%20the%20palace%20where%20one%20weeps.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=The%20saddest%20aspect%20of%20life%20is%20that%20there%20is%20no%20one%20on%20earth%20whose%20happiness%20is%20such%20that%20he%20won't%20sometimes%20wish%20he%20were%20dead%20rather%20than%20alive.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
