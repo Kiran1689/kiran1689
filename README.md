@@ -234,11 +234,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Every%20second%20you%20have%20on%20this%20planet%20is%20very%20precious%20and%20it's%20your%20responsibility%20that%20you're%20happy.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Goals%20are%20the%20fuel%20in%20the%20furnace%20of%20achievement.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
