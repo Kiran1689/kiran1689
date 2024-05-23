@@ -238,11 +238,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=The%20quality%2C%20not%20the%20longevity%2C%20of%20one's%20life%20is%20what%20is%20important.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Do%20not%20fight%20with%20pigs%20-%20you%20will%20be%20smeared%20in%20mud%20but%20the%20pig%20will%20like%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
