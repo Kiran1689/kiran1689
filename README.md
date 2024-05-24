@@ -239,11 +239,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Do%20not%20fight%20with%20pigs%20-%20you%20will%20be%20smeared%20in%20mud%20but%20the%20pig%20will%20like%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Ripe%20fruit%20falls%20by%20itself%20-%20but%20it%20doesn't%20fall%20in%20your%20mouth.%20&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
