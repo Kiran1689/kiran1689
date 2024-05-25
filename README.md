@@ -240,11 +240,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Ripe%20fruit%20falls%20by%20itself%20-%20but%20it%20doesn't%20fall%20in%20your%20mouth.%20&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Some%20changes%20look%20negative%20on%20the%20surface%20but%20you%20will%20soon%20realize%20that%20space%20is%20being%20created%20in%20your%20life%20for%20something%20new%20to%20emerge.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
