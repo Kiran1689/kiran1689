@@ -244,11 +244,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=If%20you%20want%20to%20be%20successful%2C%20you%20have%20to%20jump%2C%20there's%20no%20way%20around%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=The%20difference%20between%20winning%20and%20losing%20is%20most%20often%20not%20quitting.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
