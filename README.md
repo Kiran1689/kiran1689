@@ -247,11 +247,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=People%20who%20bite%20the%20hand%20that%20feeds%20them%20usually%20lick%20the%20boot%20that%20kicks%20them.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=It's%20beautiful%20to%20be%20alone.%20To%20be%20alone%20does%20not%20mean%20to%20be%20lonely.%20It%20means%20the%20mind%20is%20not%20influenced%20and%20contaminated%20by%20society.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
