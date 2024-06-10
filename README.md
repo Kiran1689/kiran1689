@@ -267,11 +267,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=All%20know%20that%20the%20drop%20merges%20into%20the%20ocean%2C%20but%20few%20know%20that%20the%20ocean%20merges%20into%20the%20drop.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Don't%20let%20the%20noise%20of%20others%20opinions%20drown%20out%20your%20inner%20voice.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
