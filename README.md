@@ -128,11 +128,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Scared%20people%20want%20comfort%20and%20certainty%20so%20they%20avoid%20failure.%20People%20living%20fully%20seek%20challenges%20because%20this%20is%20where%20they%20feel%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Every%20poem%20should%20remind%20the%20reader%20that%20they%20are%20going%20to%20die.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
