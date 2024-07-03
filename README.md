@@ -140,11 +140,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Confidence%20is%20consistency%20of%20thinking%20about%20what%20is%20possible%20and%20how%20to%20make%20it%20possible.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=We%20should%20not%20look%20back%20unless%20it%20is%20to%20derive%20useful%20lessons%20from%20past%20errors.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
