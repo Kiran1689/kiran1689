@@ -150,11 +150,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Decide%20whether%20or%20not%20the%20goal%20is%20worth%20the%20risks%20involved.%20If%20it%20is%2C%20stop%20worrying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Don't%20be%20afraid%20that%20you%20do%20not%20know%20something.%20Be%20afraid%20of%20not%20learning%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
