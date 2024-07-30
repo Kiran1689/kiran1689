@@ -167,11 +167,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Only%20when%20you%20can%20be%20extremely%20pliable%20and%20soft%20can%20you%20be%20extremely%20hard%20and%20strong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=The%20harder%20you%20work%2C%20the%20harder%20it%20is%20to%20surrender.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
