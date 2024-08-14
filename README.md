@@ -182,11 +182,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Let%20my%20soul%20smile%20through%20my%20heart%20and%20my%20heart%20smile%20through%20my%20eyes%2C%20that%20I%20may%20scatter%20rich%20smiles%20in%20sad%20hearts.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Routine%20life%20is%20unbearable%2C%20and%20most%20people%20only%20think%20about%20how%20to%20escape%20into%20the%20world%20of%20fantasy%20and%20dreams.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
