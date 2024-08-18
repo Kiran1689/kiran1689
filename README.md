@@ -186,11 +186,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=Hardly%20anybody%20recognizes%20the%20most%20significant%20moments%20of%20their%20life%20at%20the%20time%20they%20happen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Stand%20up%20to%20your%20obstacles%20and%20do%20something%20about%20them.%20You'll%20find%20they%20haven't%20half%20the%20strength%20you%20think%20they%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
