@@ -267,11 +267,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=You%20don't%20have%20to%20move%20mountains.%20You'll%20change%20the%20world%20simply%20by%20being%20a%20warm%2C%20kind-hearted%20human%20being.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=What%20you%20do%20today%20can%20improve%20all%20your%20tomorrows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
