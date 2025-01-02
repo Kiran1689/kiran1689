@@ -323,11 +323,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Reflect%20upon%20your%20present%20blessings%20of%20which%20every%20man%20has%20many%20-%20not%20on%20your%20past%20misfortunes%2C%20of%20which%20all%20men%20have%20some.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roger%20Lee&quote=Some%20of%20your%20greatest%20lessons%20come%20from%20your%20darkest%20moments.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
