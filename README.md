@@ -162,11 +162,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Your%20life%20does%20not%20get%20better%20by%20chance%2C%20it%20gets%20better%20by%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
