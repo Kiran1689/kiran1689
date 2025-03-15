@@ -165,11 +165,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=The%20constant%20assertion%20of%20belief%20is%20an%20indication%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=If%20the%20only%20prayer%20you%20ever%20say%20in%20your%20entire%20life%20is%20thank%20you%2C%20it%20will%20be%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
