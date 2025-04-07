@@ -188,11 +188,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=There%20are%20only%20encounters%20in%20history.%20There%20are%20no%20accidents.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=You%20are%20the%20average%20of%20the%20five%20people%20you%20spend%20the%20most%20time%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
