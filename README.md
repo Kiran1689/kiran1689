@@ -144,11 +144,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=This%20is%20the%20real%20secret%20of%20life%20-%20to%20be%20completely%20engaged%20with%20what%20you%20are%20doing%20in%20the%20here%20and%20now.%20And%20instead%20of%20calling%20it%20work%2C%20realize%20it%20is%20play.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=All%20has%20not%20been%20said%20and%20never%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
