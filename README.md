@@ -146,11 +146,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=You%20can%20discover%20what%20your%20enemy%20fears%20most%20by%20observing%20the%20means%20he%20uses%20to%20frighten%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Great%20leaders%20are%20almost%20always%20great%20simplifiers%2C%20who%20can%20cut%20through%20argument%2C%20debate%20and%20doubt%2C%20to%20offer%20a%20solution%20everybody%20can%20understand.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
