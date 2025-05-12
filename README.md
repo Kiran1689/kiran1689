@@ -161,11 +161,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=The%20moment%20you%20stop%20to%20think%20about%20whether%20you%20love%20someone%2C%20you've%20already%20stopped%20loving%20that%20person%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Be%20kind%2C%20for%20everyone%20you%20meet%20is%20fighting%20a%20harder%20battle.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
