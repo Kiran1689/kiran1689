@@ -198,11 +198,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Time%20and%20health%20are%20two%20precious%20assets%20that%20we%20don't%20recognize%20and%20appreciate%20until%20they%20have%20been%20depleted.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Mistakes%20are%20painful%20when%20they%20happen%2C%20but%20years%20later%20a%20collection%20of%20mistakes%20is%20what%20is%20called%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
