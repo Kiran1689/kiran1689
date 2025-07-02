@@ -212,11 +212,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20only%20knew%20the%20magnificence%20of%20the%203%2C%206%2C%20and%209%2C%20then%20you%20would%20have%20a%20key%20to%20the%20universe.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=You%20drown%20not%20by%20falling%20into%20a%20river%2C%20but%20by%20staying%20submerged%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
