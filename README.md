@@ -213,11 +213,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=You%20drown%20not%20by%20falling%20into%20a%20river%2C%20but%20by%20staying%20submerged%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Life%20is%20about%20accepting%20the%20challenges%20along%20the%20way%2C%20choosing%20to%20keep%20moving%20forward%2C%20and%20savoring%20the%20journey.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
