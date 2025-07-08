@@ -218,11 +218,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Never%20allow%20a%20person%20to%20tell%20you%20no%20who%20doesn't%20have%20the%20power%20to%20say%20yes.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
