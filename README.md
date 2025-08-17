@@ -160,11 +160,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Love%20is%20merely%20the%20name%20for%20the%20desire%20and%20pursuit%20of%20the%20whole.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=We%20have%20a%20choice%20everyday%20regarding%20the%20attitude%20we%20will%20embrace%20for%20that%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
