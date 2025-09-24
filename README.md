@@ -198,11 +198,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Being%20spiritual%20has%20nothing%20to%20do%20with%20what%20you%20believe%20and%20everything%20to%20do%20with%20your%20state%20of%20consciousness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=You%20have%20to%20give%20up%20some%20of%20the%20old%20so%20that%20you%20can%20make%20room%20for%20the%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
