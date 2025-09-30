@@ -204,11 +204,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=One%20of%20the%20first%20signs%20of%20the%20beginning%20of%20understanding%20is%20the%20wish%20to%20die.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=In%20order%20to%20carry%20a%20positive%20action%2C%20we%20must%20develop%20here%20a%20positive%20vision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
