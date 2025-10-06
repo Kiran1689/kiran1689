@@ -210,11 +210,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=To%20injure%20an%20opponent%20is%20to%20injure%20yourself.%20To%20control%20aggression%20without%20inflicting%20injury%20is%20the%20Art%20of%20Peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=Many%20have%20died%3B%20you%20also%20will%20die.%20The%20drum%20of%20death%20is%20being%20beaten.%20The%20world%20has%20fallen%20in%20love%20with%20a%20dream.%20Only%20sayings%20of%20the%20wise%20will%20remain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
