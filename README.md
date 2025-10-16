@@ -220,11 +220,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Resilience%20is%20not%20what%20happens%20to%20you.%20It's%20how%20you%20react%20to%2C%20respond%20to%2C%20and%20recover%20from%20what%20happens%20to%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=Everyone%20thinks%20of%20changing%20the%20world%2C%20but%20no%20one%20thinks%20of%20changing%20himself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
