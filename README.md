@@ -238,11 +238,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=If%20we%20did%20all%20the%20things%20we%20are%20capable%20of%2C%20we%20would%20literally%20astound%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Rest%20when%20you're%20weary.%20Refresh%20and%20renew%20yourself%2C%20your%20body%2C%20your%20mind%2C%20your%20spirit.%20Then%20get%20back%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
