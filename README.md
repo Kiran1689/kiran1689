@@ -265,11 +265,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=There%20is%20a%20big%20difference%20between%20being%20centered%20and%20being%20self-centered.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=The%20best%20way%20to%20not%20feel%20hopeless%20is%20to%20get%20up%20and%20do%20something.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
