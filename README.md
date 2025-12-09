@@ -274,11 +274,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=We%20can%20have%20more%20than%20we've%20got%20because%20we%20can%20become%20more%20than%20we%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Leaders%20spend%205%25%20of%20their%20time%20on%20the%20problem%20%26%2095%25%20of%20their%20time%20on%20the%20solution.%20Get%20over%20it%20%26%20crush%20it!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
