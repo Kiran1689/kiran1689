@@ -289,11 +289,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=The%20only%20thing%20more%20frustrating%20than%20slanderers%20is%20those%20foolish%20enough%20to%20listen%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=The%20true%20soldier%20fights%20not%20because%20he%20hates%20what%20is%20in%20front%20of%20him%2C%20but%20because%20he%20loves%20what%20is%20behind%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
