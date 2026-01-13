@@ -149,11 +149,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=Courage%20is%20fear%20that%20has%20said%20its%20prayers%20and%20decided%20to%20go%20forward%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=People%20do%20not%20decide%20their%20futures%2C%20they%20decide%20their%20habits%20and%20their%20habits%20decide%20their%20futures.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
