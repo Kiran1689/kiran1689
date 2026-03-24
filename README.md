@@ -218,11 +218,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=It's%20the%20little%20things%20done%20consistently%20over%20time%2C%20straight%20from%20your%20heart%2C%20that%20have%20the%20greatest%20impact.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=Real%20learning%20comes%20about%20when%20the%20competitive%20spirit%20has%20ceased.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
