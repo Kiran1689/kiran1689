@@ -234,11 +234,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Don't%20let%20the%20fear%20of%20losing%20be%20greater%20than%20the%20excitement%20of%20winning.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Humor%20isn't%20for%20everyone.%20It's%20only%20for%20people%20who%20want%20to%20have%20fun%2C%20enjoy%20life%2C%20and%20feel%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
