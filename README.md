@@ -307,11 +307,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=If%20you%20think%20you%20can%20do%20a%20thing%20or%20think%20you%20can't%20do%20a%20thing%2C%20you're%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=What%20the%20mind%20can%20conceive%2C%20it%20can%20achieve.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
