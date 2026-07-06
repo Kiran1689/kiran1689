@@ -321,11 +321,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Niccolo%20Machiavelli&quote=It%20is%20not%20titles%20that%20honour%20men%2C%20but%20men%20that%20honour%20titles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Would%20you%20rather%20live%20your%20life%20according%20to%20the%20approval%20of%20others%20or%20aligned%20with%20your%20truth%20and%20your%20dreams%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
