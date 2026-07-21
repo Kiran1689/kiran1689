@@ -336,11 +336,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20never%20know%20when%20a%20moment%20and%20a%20few%20sincere%20words%20can%20have%20an%20impact%20on%20a%20life.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=If%20you%20don't%20like%20something%20change%20it%3B%20if%20you%20can't%20change%20it%2C%20change%20the%20way%20you%20think%20about%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
