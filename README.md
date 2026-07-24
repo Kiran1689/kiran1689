@@ -339,11 +339,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Don't%20measure%20yourself%20by%20what%20you%20have%20accomplished%2C%20but%20by%20what%20you%20should%20have%20accomplished%20with%20your%20ability.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Peace%20is%20not%20something%20you%20wish%20for%3B%20It's%20something%20you%20make%2C%20something%20you%20do%2C%20something%20you%20are%2C%20and%20something%20you%20give%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
