@@ -342,11 +342,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabor%20Mate&quote=The%20attempt%20to%20escape%20from%20pain%2C%20is%20what%20creates%20more%20pain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Stay%20away%20from%20people%20who%20makes%20you%20feel%20like%20you%20are%20wasting%20their%20time.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
