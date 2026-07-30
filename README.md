@@ -345,11 +345,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Your%20past%20does%20not%20equal%20your%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Absorb%20what%20is%20useful%2C%20discard%20what%20is%20useless%20and%20add%20what%20is%20specifically%20your%20own.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
