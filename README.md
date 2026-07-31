@@ -346,11 +346,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Absorb%20what%20is%20useful%2C%20discard%20what%20is%20useless%20and%20add%20what%20is%20specifically%20your%20own.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=A%20man%20should%20never%20be%20ashamed%20to%20own%20that%20he%20has%20been%20in%20the%20wrong%2C%20which%20is%20but%20saying%2C%20that%20he%20is%20wiser%20today%20than%20yesterday.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
