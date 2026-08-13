@@ -359,11 +359,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Change%20is%20hard%20at%20first%2C%20messy%20in%20the%20middle%20and%20gorgeous%20at%20the%20end.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=I%20do%20not%20seek.%20I%20find.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
