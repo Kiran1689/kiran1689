@@ -379,11 +379,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Peace%20is%20the%20result%20of%20retraining%20your%20mind%20to%20process%20life%20as%20it%20is%2C%20rather%20than%20as%20you%20think%20it%20should%20be.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Matthew%20Barrie&quote=The%20moment%20you%20doubt%20whether%20you%20can%20fly%2C%20you%20cease%20for%20ever%20to%20be%20able%20to%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
