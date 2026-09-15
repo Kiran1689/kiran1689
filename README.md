@@ -392,11 +392,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=If%20anything%20is%20worth%20doing%2C%20do%20it%20with%20all%20your%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=You%20have%20to%20make%20time%2C%20even%20for%20something%20as%20universal%20as%20staring%20at%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
