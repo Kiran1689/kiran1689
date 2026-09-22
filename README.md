@@ -399,11 +399,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenneth%20Branagh&quote=Friendship%20is%20one%20of%20the%20most%20tangible%20things%20in%20a%20world%20which%20offers%20fewer%20and%20fewer%20supports.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Collier&quote=The%20first%20principle%20of%20success%20is%20desire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
