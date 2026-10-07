@@ -137,11 +137,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=You're%20braver%20than%20you%20believe%2C%20and%20stronger%20than%20you%20seem%2C%20and%20smarter%20than%20you%20think.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Billie%20Jean%20King&quote=Champions%20keep%20playing%20until%20they%20get%20it%20right.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
