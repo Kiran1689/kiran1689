@@ -151,11 +151,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Andrew%20Carnegie&quote=A%20man%20who%20acquires%20the%20ability%20to%20take%20full%20possession%20of%20his%20own%20mind%20may%20take%20possession%20of%20anything%20else%20to%20which%20he%20is%20justly%20entitled.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=I%20don't%20walk%20away%20from%20things%20that%20I%20think%20are%20unfinished.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
