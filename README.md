@@ -160,11 +160,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Frost&quote=The%20only%20way%20round%20is%20through.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=The%20less%20you%20want%2C%20the%20richer%20you%20are.%20The%20more%20you%20need%20in%20order%20to%20be%20happy%2C%20the%20more%20miserable%20you'll%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
