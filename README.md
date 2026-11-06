@@ -167,11 +167,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=A%20Rolling%20Stone%20Gathers%20No%20Moss.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.%20Sean%20McGee&quote=Only%20when%20one%20allows%20themself%20the%20right%20to%20die%2C%20do%20they%20then%20give%20yourself%20the%20permission%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
