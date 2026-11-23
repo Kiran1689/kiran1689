@@ -184,11 +184,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=There%20is%20no%20sadder%20sight%20than%20a%20young%20pessimist.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=What%20do%20we%20live%20for%2C%20if%20it%20is%20not%20to%20make%20life%20less%20difficult%20for%20each%20other%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
